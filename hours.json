@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-10T17:12:30.532Z",
+  "updatedAt": "2025-12-10T17:13:45.126Z",
   "days": [
     {
       "name": "Maanantai",
@@ -13,7 +13,7 @@
       "isClosed": false,
       "open": "10:30",
       "close": "22:00",
-      "exception": null
+      "exception": "test2"
     },
     {
       "name": "Keskiviikko",
