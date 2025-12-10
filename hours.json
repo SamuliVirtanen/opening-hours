@@ -1,0 +1,54 @@
+{
+  "updatedAt": "2025-12-10T16:21:22.425Z",
+  "days": [
+    {
+      "name": "Maanantai",
+      "isClosed": false,
+      "open": "01:10",
+      "close": "01:10",
+      "exception": null
+    },
+    {
+      "name": "Tiistai",
+      "isClosed": true,
+      "open": null,
+      "close": null,
+      "exception": null
+    },
+    {
+      "name": "Keskiviikko",
+      "isClosed": true,
+      "open": null,
+      "close": null,
+      "exception": null
+    },
+    {
+      "name": "Torstai",
+      "isClosed": true,
+      "open": null,
+      "close": null,
+      "exception": null
+    },
+    {
+      "name": "Perjantai",
+      "isClosed": false,
+      "open": null,
+      "close": null,
+      "exception": null
+    },
+    {
+      "name": "Lauantai",
+      "isClosed": false,
+      "open": null,
+      "close": null,
+      "exception": null
+    },
+    {
+      "name": "Sunnuntai",
+      "isClosed": false,
+      "open": null,
+      "close": null,
+      "exception": null
+    }
+  ]
+}
