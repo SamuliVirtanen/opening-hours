@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-10T18:47:52.875Z",
+  "updatedAt": "2025-12-10T18:48:43.825Z",
   "days": [
     {
       "name": "Maanantai",
@@ -31,10 +31,10 @@
     },
     {
       "name": "Perjantai",
-      "isClosed": false,
-      "open": "10:30",
-      "close": "02:00",
-      "exception": null
+      "isClosed": true,
+      "open": null,
+      "close": null,
+      "exception": "Testi suljettu"
     },
     {
       "name": "Lauantai",
