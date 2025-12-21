@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-12-21T09:47:05.982Z",
+  "updatedAt": "2025-12-21T10:38:58.813Z",
   "days": [
     {
       "name": "Maanantai",
@@ -17,29 +17,29 @@
     },
     {
       "name": "Keskiviikko",
-      "isClosed": false,
-      "open": "10:30",
-      "close": "22:00",
-      "exception": null
+      "isClosed": true,
+      "open": null,
+      "close": null,
+      "exception": "Jouluaatto"
     },
     {
       "name": "Torstai",
-      "isClosed": false,
-      "open": "10:30",
-      "close": "22:00",
-      "exception": null
+      "isClosed": true,
+      "open": null,
+      "close": null,
+      "exception": "Joulupäivä"
     },
     {
       "name": "Perjantai",
       "isClosed": false,
-      "open": "10:30",
+      "open": "13:00",
       "close": "02:00",
-      "exception": null
+      "exception": "Tapaninpäivä"
     },
     {
       "name": "Lauantai",
       "isClosed": false,
-      "open": "10:30",
+      "open": "13:00",
       "close": "02:00",
       "exception": null
     },
