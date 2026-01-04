@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-04T06:38:34.260Z",
+  "updatedAt": "2026-01-04T06:44:30.890Z",
   "days": [
     {
       "name": "Maanantai",
@@ -39,7 +39,7 @@
     {
       "name": "Lauantai",
       "isClosed": false,
-      "open": "10:30",
+      "open": "11:00",
       "close": "00:00",
       "exception": null
     },
