@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-03-31T03:24:40.085Z",
+  "updatedAt": "2026-04-07T15:53:11.719Z",
   "days": [
     {
       "name": "Maanantai",
       "isClosed": false,
-      "open": "13:00",
+      "open": "10:30",
       "close": "22:00",
-      "exception": "2. Pääsiäispäivä"
+      "exception": null
     },
     {
       "name": "Tiistai",
@@ -26,15 +26,15 @@
       "name": "Torstai",
       "isClosed": false,
       "open": "10:30",
-      "close": "00:00",
-      "exception": "Kiirastorstai"
+      "close": "22:00",
+      "exception": null
     },
     {
       "name": "Perjantai",
       "isClosed": false,
-      "open": "13:00",
+      "open": "10:30",
       "close": "00:00",
-      "exception": "Pitkäperjantai"
+      "exception": null
     },
     {
       "name": "Lauantai",
