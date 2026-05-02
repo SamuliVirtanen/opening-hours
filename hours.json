@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27T15:28:44.123Z",
+  "updatedAt": "2026-05-02T18:06:09.187Z",
   "days": [
     {
       "name": "Maanantai",
@@ -26,13 +26,13 @@
       "name": "Torstai",
       "isClosed": false,
       "open": "10:30",
-      "close": "02:00",
-      "exception": "Vappuaatto"
+      "close": "22:00",
+      "exception": null
     },
     {
       "name": "Perjantai",
       "isClosed": false,
-      "open": "13:00",
+      "open": "10:30",
       "close": "02:00",
       "exception": "Vapun päivä"
     },
