@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T18:06:09.187Z",
+  "updatedAt": "2026-05-07T13:34:23.256Z",
   "days": [
     {
       "name": "Maanantai",
@@ -34,7 +34,7 @@
       "isClosed": false,
       "open": "10:30",
       "close": "02:00",
-      "exception": "Vapun päivä"
+      "exception": null
     },
     {
       "name": "Lauantai",
