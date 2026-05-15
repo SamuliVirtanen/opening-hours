@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T12:45:59.630Z",
+  "updatedAt": "2026-05-15T22:11:29.986Z",
   "days": [
     {
       "name": "Maanantai",
@@ -25,9 +25,9 @@
     {
       "name": "Torstai",
       "isClosed": false,
-      "open": "13:00",
+      "open": "10:30",
       "close": "22:00",
-      "exception": "Helatorstai"
+      "exception": null
     },
     {
       "name": "Perjantai",
