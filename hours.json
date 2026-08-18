@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T16:00:45.002Z",
+  "updatedAt": "2026-08-18T03:28:05.830Z",
   "days": [
     {
       "name": "Maanantai",
@@ -33,8 +33,8 @@
       "name": "Perjantai",
       "isClosed": false,
       "open": "10:30",
-      "close": "04:00",
-      "exception": "Taiteiden Yö 14.08."
+      "close": "02:00",
+      "exception": null
     },
     {
       "name": "Lauantai",
